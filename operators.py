@@ -14,7 +14,7 @@ PEMDAS
 * / // % (L-R)
 + - (L-R)
 """
-print(4**2)
+print(4 ** 2)
 
 # BMI
 # w/h**2
