@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="first python code">
-      <change afterPath="$PROJECT_DIR$/input_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/string_manipulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add_two_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculate_BMI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/type_error.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +48,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.add_exercise.executor": "Run",
+    "Python.add_two_digits.executor": "Run",
+    "Python.calculate_BMI.executor": "Run",
+    "Python.data_type.executor": "Run",
     "Python.first.executor": "Run",
     "Python.input_function.executor": "Run",
+    "Python.operators.executor": "Run",
     "Python.string_manipulation.executor": "Run",
+    "Python.swap_exercise.executor": "Run",
+    "Python.type_error.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -86,6 +98,17 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first python code" />
