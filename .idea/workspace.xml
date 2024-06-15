@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="operators and exercise">
-      <change afterPath="$PROJECT_DIR$/bitwise_operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/identity_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logical_operators.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="membership operator">
+      <change afterPath="$PROJECT_DIR$/BMI_int_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rounding_in_python.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,15 +46,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.BMI_int_exercise.executor": "Run",
     "Python.add_exercise.executor": "Run",
     "Python.add_two_digits.executor": "Run",
     "Python.bitwise_operators.executor": "Run",
     "Python.calculate_BMI.executor": "Run",
     "Python.data_type.executor": "Run",
     "Python.first.executor": "Run",
+    "Python.identity_operator.executor": "Run",
     "Python.input_function.executor": "Run",
     "Python.logical_operators.executor": "Run",
+    "Python.membership_operator.executor": "Run",
     "Python.operators.executor": "Run",
+    "Python.rounding_in_python.executor": "Run",
     "Python.string_manipulation.executor": "Run",
     "Python.swap_exercise.executor": "Run",
     "Python.type_error.executor": "Run",
@@ -113,7 +116,31 @@
       <option name="project" value="LOCAL" />
       <updated>1718345839475</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="operators and exercise">
+      <option name="closed" value="true" />
+      <created>1718427053866</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718427053866</updated>
+    </task>
+    <task id="LOCAL-00006" summary="logical and bitwise operators">
+      <option name="closed" value="true" />
+      <created>1718427173174</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718427173174</updated>
+    </task>
+    <task id="LOCAL-00007" summary="membership operator">
+      <option name="closed" value="true" />
+      <created>1718428994710</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718428994710</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +157,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first python code" />
     <MESSAGE value="operators and exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="operators and exercise" />
+    <MESSAGE value="logical and bitwise operators" />
+    <MESSAGE value="membership operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="membership operator" />
   </component>
 </project>
