@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="nested if bill exercise">
-      <change afterPath="$PROJECT_DIR$/pizza_order_exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/true_love_check.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="pizza order and love calculator exercise">
+      <change afterPath="$PROJECT_DIR$/head_or_tail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random_module.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +57,7 @@
     "Python.data_type.executor": "Run",
     "Python.fStrings_python.executor": "Run",
     "Python.first.executor": "Run",
+    "Python.head_or_tail.executor": "Run",
     "Python.identity_operator.executor": "Run",
     "Python.if_else.executor": "Run",
     "Python.if_else_exercise.executor": "Run",
@@ -66,6 +68,8 @@
     "Python.nested_if.executor": "Run",
     "Python.operators.executor": "Run",
     "Python.pizza_order_exercise.executor": "Run",
+    "Python.python_list.executor": "Run",
+    "Python.random_module.executor": "Run",
     "Python.rounding_in_python.executor": "Run",
     "Python.string_manipulation.executor": "Run",
     "Python.swap_exercise.executor": "Run",
@@ -189,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718861814171</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="pizza order and love calculator exercise">
+      <option name="closed" value="true" />
+      <created>1718951042052</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718951042052</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +224,7 @@
     <MESSAGE value="Conditional statements in python" />
     <MESSAGE value="Nested Conditional statements in python" />
     <MESSAGE value="nested if bill exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="nested if bill exercise" />
+    <MESSAGE value="pizza order and love calculator exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="pizza order and love calculator exercise" />
   </component>
 </project>
