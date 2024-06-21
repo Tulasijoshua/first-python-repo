@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="Nested Conditional statements in python">
-      <change afterPath="$PROJECT_DIR$/leap_year_check.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="nested if bill exercise">
+      <change afterPath="$PROJECT_DIR$/pizza_order_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/true_love_check.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nested_if.py" beforeDir="false" afterPath="$PROJECT_DIR$/nested_if.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +65,11 @@
     "Python.membership_operator.executor": "Run",
     "Python.nested_if.executor": "Run",
     "Python.operators.executor": "Run",
+    "Python.pizza_order_exercise.executor": "Run",
     "Python.rounding_in_python.executor": "Run",
     "Python.string_manipulation.executor": "Run",
     "Python.swap_exercise.executor": "Run",
+    "Python.true_love_check.executor": "Run",
     "Python.type_error.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -179,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718859602070</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="nested if bill exercise">
+      <option name="closed" value="true" />
+      <created>1718861814171</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718861814171</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +211,7 @@
     <MESSAGE value="Rounding in python" />
     <MESSAGE value="Conditional statements in python" />
     <MESSAGE value="Nested Conditional statements in python" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nested Conditional statements in python" />
+    <MESSAGE value="nested if bill exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="nested if bill exercise" />
   </component>
 </project>
