@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="pizza order and love calculator exercise">
-      <change afterPath="$PROJECT_DIR$/head_or_tail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/random_module.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="Who will pay the bill exercise">
+      <change afterPath="$PROJECT_DIR$/index_error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nested_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nested_list_exercise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/randomly_select_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/randomly_select_name.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,15 +62,19 @@
     "Python.identity_operator.executor": "Run",
     "Python.if_else.executor": "Run",
     "Python.if_else_exercise.executor": "Run",
+    "Python.index_error.executor": "Run",
     "Python.input_function.executor": "Run",
     "Python.leap_year_check.executor": "Run",
     "Python.logical_operators.executor": "Run",
     "Python.membership_operator.executor": "Run",
     "Python.nested_if.executor": "Run",
+    "Python.nested_list.executor": "Run",
+    "Python.nested_list_exercise.executor": "Run",
     "Python.operators.executor": "Run",
     "Python.pizza_order_exercise.executor": "Run",
     "Python.python_list.executor": "Run",
     "Python.random_module.executor": "Run",
+    "Python.randomly_select_name.executor": "Run",
     "Python.rounding_in_python.executor": "Run",
     "Python.string_manipulation.executor": "Run",
     "Python.swap_exercise.executor": "Run",
@@ -201,7 +206,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718951042052</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="list and random module in python">
+      <option name="closed" value="true" />
+      <created>1718955398450</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1718955398450</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Who will pay the bill exercise">
+      <option name="closed" value="true" />
+      <created>1718956213416</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1718956213416</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +246,8 @@
     <MESSAGE value="Nested Conditional statements in python" />
     <MESSAGE value="nested if bill exercise" />
     <MESSAGE value="pizza order and love calculator exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="pizza order and love calculator exercise" />
+    <MESSAGE value="list and random module in python" />
+    <MESSAGE value="Who will pay the bill exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Who will pay the bill exercise" />
   </component>
 </project>
