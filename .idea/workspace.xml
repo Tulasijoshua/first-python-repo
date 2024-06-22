@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="rock paper scissors">
-      <change afterPath="$PROJECT_DIR$/tuple_python.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="Tuple">
+      <change afterPath="$PROJECT_DIR$/operations_on_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operations_on_set2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set_advance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set_python.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +70,8 @@
     "Python.nested_if.executor": "Run",
     "Python.nested_list.executor": "Run",
     "Python.nested_list_exercise.executor": "Run",
+    "Python.operations_on_set.executor": "Run",
+    "Python.operations_on_set2.executor": "Run",
     "Python.operators.executor": "Run",
     "Python.pizza_order_exercise.executor": "Run",
     "Python.python_list.executor": "Run",
@@ -74,6 +79,8 @@
     "Python.randomly_select_name.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
     "Python.rounding_in_python.executor": "Run",
+    "Python.set_advance.executor": "Run",
+    "Python.set_python.executor": "Run",
     "Python.string_manipulation.executor": "Run",
     "Python.swap_exercise.executor": "Run",
     "Python.true_love_check.executor": "Run",
@@ -237,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719036552078</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Tuple">
+      <option name="closed" value="true" />
+      <created>1719038942699</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1719038942699</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,6 +280,7 @@
     <MESSAGE value="Who will pay the bill exercise" />
     <MESSAGE value="list" />
     <MESSAGE value="rock paper scissors" />
-    <option name="LAST_COMMIT_MESSAGE" value="rock paper scissors" />
+    <MESSAGE value="Tuple" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tuple" />
   </component>
 </project>
