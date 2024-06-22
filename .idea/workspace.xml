@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="list">
-      <change afterPath="$PROJECT_DIR$/rock_paper_scissors.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="rock paper scissors">
+      <change afterPath="$PROJECT_DIR$/tuple_python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +77,7 @@
     "Python.string_manipulation.executor": "Run",
     "Python.swap_exercise.executor": "Run",
     "Python.true_love_check.executor": "Run",
+    "Python.tuple_python.executor": "Run",
     "Python.type_error.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -227,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719034329393</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="rock paper scissors">
+      <option name="closed" value="true" />
+      <created>1719036552078</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1719036552078</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +264,7 @@
     <MESSAGE value="list and random module in python" />
     <MESSAGE value="Who will pay the bill exercise" />
     <MESSAGE value="list" />
-    <option name="LAST_COMMIT_MESSAGE" value="list" />
+    <MESSAGE value="rock paper scissors" />
+    <option name="LAST_COMMIT_MESSAGE" value="rock paper scissors" />
   </component>
 </project>
