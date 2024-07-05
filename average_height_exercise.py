@@ -7,7 +7,7 @@ for i in numbers:
 else:
     length = len(numbers)
     height = sum/length
-    print("The average height is: " + round(height))
+print("The average height is: " + round(height))
 
 # height_list = input("Enter a list separated by space: ")
 #
