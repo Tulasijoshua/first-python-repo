@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="range">
-      <change afterPath="$PROJECT_DIR$/fizzbuzz_exercise.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="fizzbuzz exercise">
+      <change afterPath="$PROJECT_DIR$/password_generator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_module.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +76,7 @@
     "Python.operations_on_set.executor": "Run",
     "Python.operations_on_set2.executor": "Run",
     "Python.operators.executor": "Run",
+    "Python.password_generator.executor": "Run",
     "Python.pizza_order_exercise.executor": "Run",
     "Python.python_list.executor": "Run",
     "Python.random_module.executor": "Run",
@@ -288,7 +290,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720165740710</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="fizzbuzz exercise">
+      <option name="closed" value="true" />
+      <created>1720178321749</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1720178321749</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -321,6 +331,7 @@
     <MESSAGE value="for loop" />
     <MESSAGE value="average exercise" />
     <MESSAGE value="range" />
-    <option name="LAST_COMMIT_MESSAGE" value="range" />
+    <MESSAGE value="fizzbuzz exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="fizzbuzz exercise" />
   </component>
 </project>
