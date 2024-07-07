@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="password generator">
-      <change afterPath="$PROJECT_DIR$/while_loop_exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while_loop_python.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="while loop">
+      <change afterPath="$PROJECT_DIR$/function_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop_control_continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop_control_pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loop_control_statements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +62,7 @@
     "Python.fizzbuzz_exercise.executor": "Run",
     "Python.for_else_loop.executor": "Run",
     "Python.for_loop.executor": "Run",
+    "Python.function_intro.executor": "Run",
     "Python.head_or_tail.executor": "Run",
     "Python.identity_operator.executor": "Run",
     "Python.if_else.executor": "Run",
@@ -68,6 +71,9 @@
     "Python.input_function.executor": "Run",
     "Python.leap_year_check.executor": "Run",
     "Python.logical_operators.executor": "Run",
+    "Python.loop_control_continue.executor": "Run",
+    "Python.loop_control_pass.executor": "Run",
+    "Python.loop_control_statements.executor": "Run",
     "Python.max_number_exercise.executor": "Run",
     "Python.membership_operator.executor": "Run",
     "Python.nested_if.executor": "Run",
@@ -308,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720253994382</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="while loop">
+      <option name="closed" value="true" />
+      <created>1720319804260</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1720319804260</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -343,6 +357,7 @@
     <MESSAGE value="range" />
     <MESSAGE value="fizzbuzz exercise" />
     <MESSAGE value="password generator" />
-    <option name="LAST_COMMIT_MESSAGE" value="password generator" />
+    <MESSAGE value="while loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="while loop" />
   </component>
 </project>
