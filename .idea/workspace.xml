@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="average height corrected">
-      <change afterPath="$PROJECT_DIR$/function_two_arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/types_of_arguments.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="functions in python">
+      <change afterPath="$PROJECT_DIR$/Ap_Akarguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/num_of_paints.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prime_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/average_height_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/average_height_exercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/function_intro.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Ap_Akarguments.executor": "Run",
     "Python.BMI_int_exercise.executor": "Run",
     "Python.BMI_second_exercise.executor": "Run",
     "Python.add_exercise.executor": "Run",
@@ -80,11 +80,13 @@
     "Python.nested_if.executor": "Run",
     "Python.nested_list.executor": "Run",
     "Python.nested_list_exercise.executor": "Run",
+    "Python.num_of_paints.executor": "Run",
     "Python.operations_on_set.executor": "Run",
     "Python.operations_on_set2.executor": "Run",
     "Python.operators.executor": "Run",
     "Python.password_generator.executor": "Run",
     "Python.pizza_order_exercise.executor": "Run",
+    "Python.prime_function.executor": "Run",
     "Python.python_list.executor": "Run",
     "Python.random_module.executor": "Run",
     "Python.randomly_select_name.executor": "Run",
@@ -340,7 +342,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720372699875</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="functions in python">
+      <option name="closed" value="true" />
+      <created>1720449086167</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1720449086167</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -378,6 +388,7 @@
     <MESSAGE value="while loop" />
     <MESSAGE value="loop controls" />
     <MESSAGE value="average height corrected" />
-    <option name="LAST_COMMIT_MESSAGE" value="average height corrected" />
+    <MESSAGE value="functions in python" />
+    <option name="LAST_COMMIT_MESSAGE" value="functions in python" />
   </component>
 </project>
