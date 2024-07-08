@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="while loop">
-      <change afterPath="$PROJECT_DIR$/function_intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop_control_continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop_control_pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loop_control_statements.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="average height corrected">
+      <change afterPath="$PROJECT_DIR$/function_two_arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types_of_arguments.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/average_height_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/average_height_exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/function_intro.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +63,7 @@
     "Python.for_else_loop.executor": "Run",
     "Python.for_loop.executor": "Run",
     "Python.function_intro.executor": "Run",
+    "Python.function_two_arguments.executor": "Run",
     "Python.head_or_tail.executor": "Run",
     "Python.identity_operator.executor": "Run",
     "Python.if_else.executor": "Run",
@@ -98,6 +99,7 @@
     "Python.true_love_check.executor": "Run",
     "Python.tuple_python.executor": "Run",
     "Python.type_error.executor": "Run",
+    "Python.types_of_arguments.executor": "Run",
     "Python.variables.executor": "Run",
     "Python.while_loop_exercise.executor": "Run",
     "Python.while_loop_python.executor": "Run",
@@ -322,7 +324,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720319804260</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="loop controls">
+      <option name="closed" value="true" />
+      <created>1720371665292</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1720371665292</updated>
+    </task>
+    <task id="LOCAL-00027" summary="average height corrected">
+      <option name="closed" value="true" />
+      <created>1720372699875</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1720372699875</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -358,6 +376,8 @@
     <MESSAGE value="fizzbuzz exercise" />
     <MESSAGE value="password generator" />
     <MESSAGE value="while loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="while loop" />
+    <MESSAGE value="loop controls" />
+    <MESSAGE value="average height corrected" />
+    <option name="LAST_COMMIT_MESSAGE" value="average height corrected" />
   </component>
 </project>

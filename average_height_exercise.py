@@ -1,6 +1,7 @@
 numbers = input("Enter list of numbers separated by space: ")
 
 numbers = numbers.split()
+print(numbers)
 sum = 0
 for i in numbers:
     sum += int(i)

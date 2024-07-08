@@ -1,5 +1,5 @@
-def greet():
-    print("Hi")
+def greet(name):
+    print(f"Hi {name}")
     print("Joshua")
 
-greet()
+greet("Tulasi")
