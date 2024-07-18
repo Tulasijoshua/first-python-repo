@@ -25,7 +25,7 @@ def decryption(cipher_text, shift_key):
 wanna_end=False
 while not wanna_end:
     what_to_do = input("Type 'encrypt' for encryption, type 'decrypt' for decryption:\n")
-    text = input("Type your message:\n")
+    text = input("Type your message:\n").lower()
     shift=int(input("Enter shift key:\n"))
 
     if what_to_do == "encrypt":
