@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="functions in python">
-      <change afterPath="$PROJECT_DIR$/Ap_Akarguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/num_of_paints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prime_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caesar_cipher.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,13 +105,14 @@
     "Python.while_loop_python.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Tulasi/courses/python/first-python-repo",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
