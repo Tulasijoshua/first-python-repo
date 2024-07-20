@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="caesar cipher final">
-      <change afterPath="$PROJECT_DIR$/dictionaries.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="dictionary functions">
+      <change afterPath="$PROJECT_DIR$/dict_exercise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Python.caesar_cipher.executor": "Run",
     "Python.calculate_BMI.executor": "Run",
     "Python.data_type.executor": "Run",
+    "Python.dict_exercise.executor": "Run",
     "Python.dictionaries.executor": "Run",
     "Python.fStrings_python.executor": "Run",
     "Python.first.executor": "Run",
@@ -375,7 +376,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721277157599</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="dictionaries">
+      <option name="closed" value="true" />
+      <created>1721445925571</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1721445925571</updated>
+    </task>
+    <task id="LOCAL-00033" summary="dictionary functions">
+      <option name="closed" value="true" />
+      <created>1721446557265</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1721446557265</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -390,8 +407,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="operators and exercise" />
-    <MESSAGE value="logical and bitwise operators" />
     <MESSAGE value="membership operator" />
     <MESSAGE value="Rounding in python" />
     <MESSAGE value="Conditional statements in python" />
@@ -415,6 +430,8 @@
     <MESSAGE value="functions in python" />
     <MESSAGE value="caesar cipher text" />
     <MESSAGE value="caesar cipher final" />
-    <option name="LAST_COMMIT_MESSAGE" value="caesar cipher final" />
+    <MESSAGE value="dictionaries" />
+    <MESSAGE value="dictionary functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="dictionary functions" />
   </component>
 </project>
