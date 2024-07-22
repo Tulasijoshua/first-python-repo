@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="dictionary functions">
-      <change afterPath="$PROJECT_DIR$/dict_exercise.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="dictionary exercise">
+      <change afterPath="$PROJECT_DIR$/nested_dictionaries.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +78,7 @@
     "Python.loop_control_statements.executor": "Run",
     "Python.max_number_exercise.executor": "Run",
     "Python.membership_operator.executor": "Run",
+    "Python.nested_dictionaries.executor": "Run",
     "Python.nested_if.executor": "Run",
     "Python.nested_list.executor": "Run",
     "Python.nested_list_exercise.executor": "Run",
@@ -392,7 +393,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721446557265</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="dictionary exercise">
+      <option name="closed" value="true" />
+      <created>1721450426452</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1721450426452</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,7 +416,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="membership operator" />
     <MESSAGE value="Rounding in python" />
     <MESSAGE value="Conditional statements in python" />
     <MESSAGE value="Nested Conditional statements in python" />
@@ -432,6 +440,7 @@
     <MESSAGE value="caesar cipher final" />
     <MESSAGE value="dictionaries" />
     <MESSAGE value="dictionary functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="dictionary functions" />
+    <MESSAGE value="dictionary exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="dictionary exercise" />
   </component>
 </project>
