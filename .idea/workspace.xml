@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="nested dictionaries">
-      <change afterPath="$PROJECT_DIR$/silent_auction_program.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="Self silent auction program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/silent_auction_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/silent_auction_program.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +97,7 @@
     "Python.rounding_in_python.executor": "Run",
     "Python.set_advance.executor": "Run",
     "Python.set_python.executor": "Run",
-    "Python.silent_auction_program.executor": "Debug",
+    "Python.silent_auction_program.executor": "Run",
     "Python.string_manipulation.executor": "Run",
     "Python.sum_even.executor": "Run",
     "Python.swap_exercise.executor": "Run",
@@ -115,6 +114,32 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="silent_auction_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="firstProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/silent_auction_program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.silent_auction_program" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -411,7 +436,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721629271542</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Self silent auction program">
+      <option name="closed" value="true" />
+      <created>1722291211885</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1722291211885</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -426,7 +459,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Conditional statements in python" />
     <MESSAGE value="Nested Conditional statements in python" />
     <MESSAGE value="nested if bill exercise" />
     <MESSAGE value="pizza order and love calculator exercise" />
@@ -451,6 +483,7 @@
     <MESSAGE value="dictionary functions" />
     <MESSAGE value="dictionary exercise" />
     <MESSAGE value="nested dictionaries" />
-    <option name="LAST_COMMIT_MESSAGE" value="nested dictionaries" />
+    <MESSAGE value="Self silent auction program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Self silent auction program" />
   </component>
 </project>
