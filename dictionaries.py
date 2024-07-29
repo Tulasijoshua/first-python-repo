@@ -43,6 +43,6 @@ data= {
 # print(phone_no2)
 print(len(phone_no))
 
-# for i in phone_no:
-#     print(i)
-#     print(phone_no[i])
+for i in phone_no:
+    # print(i)
+    print(phone_no[i])

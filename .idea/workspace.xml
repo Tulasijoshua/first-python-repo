@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="dictionary exercise">
-      <change afterPath="$PROJECT_DIR$/nested_dictionaries.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="nested dictionaries">
+      <change afterPath="$PROJECT_DIR$/silent_auction_program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionaries.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
     "Python.calculate_BMI.executor": "Run",
     "Python.data_type.executor": "Run",
     "Python.dict_exercise.executor": "Run",
-    "Python.dictionaries.executor": "Run",
+    "Python.dictionaries.executor": "Debug",
     "Python.fStrings_python.executor": "Run",
     "Python.first.executor": "Run",
     "Python.fizzbuzz_exercise.executor": "Run",
@@ -97,6 +98,7 @@
     "Python.rounding_in_python.executor": "Run",
     "Python.set_advance.executor": "Run",
     "Python.set_python.executor": "Run",
+    "Python.silent_auction_program.executor": "Debug",
     "Python.string_manipulation.executor": "Run",
     "Python.sum_even.executor": "Run",
     "Python.swap_exercise.executor": "Run",
@@ -401,7 +403,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721450426452</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="nested dictionaries">
+      <option name="closed" value="true" />
+      <created>1721629271542</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1721629271542</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,7 +426,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Rounding in python" />
     <MESSAGE value="Conditional statements in python" />
     <MESSAGE value="Nested Conditional statements in python" />
     <MESSAGE value="nested if bill exercise" />
@@ -441,6 +450,7 @@
     <MESSAGE value="dictionaries" />
     <MESSAGE value="dictionary functions" />
     <MESSAGE value="dictionary exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="dictionary exercise" />
+    <MESSAGE value="nested dictionaries" />
+    <option name="LAST_COMMIT_MESSAGE" value="nested dictionaries" />
   </component>
 </project>
