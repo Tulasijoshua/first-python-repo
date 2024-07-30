@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="Self silent auction program">
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="silent auction program complete">
+      <change afterPath="$PROJECT_DIR$/fun_with_returnvalue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multiple_return_values.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/silent_auction_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/silent_auction_program.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +64,7 @@
     "Python.fizzbuzz_exercise.executor": "Run",
     "Python.for_else_loop.executor": "Run",
     "Python.for_loop.executor": "Run",
+    "Python.fun_with_returnvalue.executor": "Debug",
     "Python.function_intro.executor": "Run",
     "Python.function_two_arguments.executor": "Run",
     "Python.head_or_tail.executor": "Run",
@@ -78,6 +80,7 @@
     "Python.loop_control_statements.executor": "Run",
     "Python.max_number_exercise.executor": "Run",
     "Python.membership_operator.executor": "Run",
+    "Python.multiple_return_values.executor": "Debug",
     "Python.nested_dictionaries.executor": "Run",
     "Python.nested_if.executor": "Run",
     "Python.nested_list.executor": "Run",
@@ -97,7 +100,7 @@
     "Python.rounding_in_python.executor": "Run",
     "Python.set_advance.executor": "Run",
     "Python.set_python.executor": "Run",
-    "Python.silent_auction_program.executor": "Run",
+    "Python.silent_auction_program.executor": "Debug",
     "Python.string_manipulation.executor": "Run",
     "Python.sum_even.executor": "Run",
     "Python.swap_exercise.executor": "Run",
@@ -120,6 +123,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -444,7 +450,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722291211885</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="silent auction program complete">
+      <option name="closed" value="true" />
+      <created>1722295309376</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1722295309376</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -459,7 +473,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Nested Conditional statements in python" />
     <MESSAGE value="nested if bill exercise" />
     <MESSAGE value="pizza order and love calculator exercise" />
     <MESSAGE value="list and random module in python" />
@@ -484,6 +497,7 @@
     <MESSAGE value="dictionary exercise" />
     <MESSAGE value="nested dictionaries" />
     <MESSAGE value="Self silent auction program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Self silent auction program" />
+    <MESSAGE value="silent auction program complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="silent auction program complete" />
   </component>
 </project>
