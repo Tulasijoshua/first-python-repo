@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="return value from a function">
-      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/days_in_month.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/print_return.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="calculator project and return values">
+      <change afterPath="$PROJECT_DIR$/global_keyword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scope_variable.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +69,7 @@
     "Python.fun_with_returnvalue.executor": "Debug",
     "Python.function_intro.executor": "Run",
     "Python.function_two_arguments.executor": "Run",
+    "Python.global_keyword.executor": "Debug",
     "Python.head_or_tail.executor": "Run",
     "Python.identity_operator.executor": "Run",
     "Python.if_else.executor": "Run",
@@ -102,6 +102,7 @@
     "Python.range_function.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
     "Python.rounding_in_python.executor": "Run",
+    "Python.scope_variable.executor": "Debug",
     "Python.set_advance.executor": "Run",
     "Python.set_python.executor": "Run",
     "Python.silent_auction_program.executor": "Debug",
@@ -121,7 +122,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.calculator">
+  <component name="RunManager">
     <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="firstProject" />
       <option name="ENV_FILES" value="" />
@@ -492,7 +493,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722298005142</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="calculator project and return values">
+      <option name="closed" value="true" />
+      <created>1722304714034</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1722304714034</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -507,7 +516,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pizza order and love calculator exercise" />
     <MESSAGE value="list and random module in python" />
     <MESSAGE value="Who will pay the bill exercise" />
     <MESSAGE value="list" />
@@ -532,6 +540,7 @@
     <MESSAGE value="Self silent auction program" />
     <MESSAGE value="silent auction program complete" />
     <MESSAGE value="return value from a function" />
-    <option name="LAST_COMMIT_MESSAGE" value="return value from a function" />
+    <MESSAGE value="calculator project and return values" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculator project and return values" />
   </component>
 </project>
