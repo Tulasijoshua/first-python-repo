@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="silent auction program complete">
-      <change afterPath="$PROJECT_DIR$/fun_with_returnvalue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiple_return_values.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="return value from a function">
+      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/days_in_month.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print_return.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +57,9 @@
     "Python.bitwise_operators.executor": "Run",
     "Python.caesar_cipher.executor": "Run",
     "Python.calculate_BMI.executor": "Run",
+    "Python.calculator.executor": "Debug",
     "Python.data_type.executor": "Run",
+    "Python.days_in_month.executor": "Debug",
     "Python.dict_exercise.executor": "Run",
     "Python.dictionaries.executor": "Debug",
     "Python.fStrings_python.executor": "Run",
@@ -92,6 +95,7 @@
     "Python.password_generator.executor": "Run",
     "Python.pizza_order_exercise.executor": "Run",
     "Python.prime_function.executor": "Run",
+    "Python.print_return.executor": "Debug",
     "Python.python_list.executor": "Run",
     "Python.random_module.executor": "Run",
     "Python.randomly_select_name.executor": "Run",
@@ -117,7 +121,29 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.calculator">
+    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="firstProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="silent_auction_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="firstProject" />
       <option name="ENV_FILES" value="" />
@@ -458,7 +484,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722295309376</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="return value from a function">
+      <option name="closed" value="true" />
+      <created>1722298005142</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1722298005142</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -473,7 +507,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="nested if bill exercise" />
     <MESSAGE value="pizza order and love calculator exercise" />
     <MESSAGE value="list and random module in python" />
     <MESSAGE value="Who will pay the bill exercise" />
@@ -498,6 +531,7 @@
     <MESSAGE value="nested dictionaries" />
     <MESSAGE value="Self silent auction program" />
     <MESSAGE value="silent auction program complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="silent auction program complete" />
+    <MESSAGE value="return value from a function" />
+    <option name="LAST_COMMIT_MESSAGE" value="return value from a function" />
   </component>
 </project>
