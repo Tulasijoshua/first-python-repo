@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="calculator project and return values">
-      <change afterPath="$PROJECT_DIR$/global_keyword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scope_variable.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="global keyword">
+      <change afterPath="$PROJECT_DIR$/debugging_tips.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guess_the_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo_art.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +60,7 @@
     "Python.calculator.executor": "Debug",
     "Python.data_type.executor": "Run",
     "Python.days_in_month.executor": "Debug",
+    "Python.debugging_tips.executor": "Debug",
     "Python.dict_exercise.executor": "Run",
     "Python.dictionaries.executor": "Debug",
     "Python.fStrings_python.executor": "Run",
@@ -70,6 +72,7 @@
     "Python.function_intro.executor": "Run",
     "Python.function_two_arguments.executor": "Run",
     "Python.global_keyword.executor": "Debug",
+    "Python.guess_the_number.executor": "Debug",
     "Python.head_or_tail.executor": "Run",
     "Python.identity_operator.executor": "Run",
     "Python.if_else.executor": "Run",
@@ -501,7 +504,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722304714034</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="global keyword">
+      <option name="closed" value="true" />
+      <created>1722308305535</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1722308305535</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -516,7 +527,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="list and random module in python" />
     <MESSAGE value="Who will pay the bill exercise" />
     <MESSAGE value="list" />
     <MESSAGE value="rock paper scissors" />
@@ -541,6 +551,7 @@
     <MESSAGE value="silent auction program complete" />
     <MESSAGE value="return value from a function" />
     <MESSAGE value="calculator project and return values" />
-    <option name="LAST_COMMIT_MESSAGE" value="calculator project and return values" />
+    <MESSAGE value="global keyword" />
+    <option name="LAST_COMMIT_MESSAGE" value="global keyword" />
   </component>
 </project>
