@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="guess game and debugging tips">
-      <change afterPath="$PROJECT_DIR$/game_art.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game_database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hgiherlowe_game.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="higher lower game">
+      <change afterPath="$PROJECT_DIR$/coffee_machine_project.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +56,7 @@
     "Python.caesar_cipher.executor": "Run",
     "Python.calculate_BMI.executor": "Run",
     "Python.calculator.executor": "Debug",
+    "Python.coffee_machine_project.executor": "Debug",
     "Python.data_type.executor": "Run",
     "Python.days_in_month.executor": "Debug",
     "Python.debugging_tips.executor": "Debug",
@@ -74,7 +73,7 @@
     "Python.global_keyword.executor": "Debug",
     "Python.guess_the_number.executor": "Debug",
     "Python.head_or_tail.executor": "Run",
-    "Python.hgiherlowe_game.executor": "Debug",
+    "Python.hgiherlowe_game.executor": "Run",
     "Python.identity_operator.executor": "Run",
     "Python.if_else.executor": "Run",
     "Python.if_else_exercise.executor": "Run",
@@ -126,7 +125,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.hgiherlowe_game">
+  <component name="RunManager">
     <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="firstProject" />
       <option name="ENV_FILES" value="" />
@@ -543,7 +542,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722312183181</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="higher lower game">
+      <option name="closed" value="true" />
+      <created>1722533112850</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1722533112850</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -558,7 +565,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="list" />
     <MESSAGE value="rock paper scissors" />
     <MESSAGE value="Tuple" />
     <MESSAGE value="Set in python" />
@@ -583,6 +589,7 @@
     <MESSAGE value="calculator project and return values" />
     <MESSAGE value="global keyword" />
     <MESSAGE value="guess game and debugging tips" />
-    <option name="LAST_COMMIT_MESSAGE" value="guess game and debugging tips" />
+    <MESSAGE value="higher lower game" />
+    <option name="LAST_COMMIT_MESSAGE" value="higher lower game" />
   </component>
 </project>
