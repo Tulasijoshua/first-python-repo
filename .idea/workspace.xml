@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="higher lower game">
-      <change afterPath="$PROJECT_DIR$/coffee_machine_project.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="coffee machine project">
+      <change afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop_concepts_classes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +61,7 @@
     "Python.data_type.executor": "Run",
     "Python.days_in_month.executor": "Debug",
     "Python.debugging_tips.executor": "Debug",
+    "Python.demo.executor": "Debug",
     "Python.dict_exercise.executor": "Run",
     "Python.dictionaries.executor": "Debug",
     "Python.fStrings_python.executor": "Run",
@@ -92,6 +94,7 @@
     "Python.nested_list.executor": "Run",
     "Python.nested_list_exercise.executor": "Run",
     "Python.num_of_paints.executor": "Run",
+    "Python.oop_concepts_classes.executor": "Debug",
     "Python.operations_on_set.executor": "Run",
     "Python.operations_on_set2.executor": "Run",
     "Python.operators.executor": "Run",
@@ -550,7 +553,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722533112850</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="coffee machine project">
+      <option name="closed" value="true" />
+      <created>1722595970638</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1722595970638</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -565,7 +576,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="rock paper scissors" />
     <MESSAGE value="Tuple" />
     <MESSAGE value="Set in python" />
     <MESSAGE value="for loop" />
@@ -590,6 +600,7 @@
     <MESSAGE value="global keyword" />
     <MESSAGE value="guess game and debugging tips" />
     <MESSAGE value="higher lower game" />
-    <option name="LAST_COMMIT_MESSAGE" value="higher lower game" />
+    <MESSAGE value="coffee machine project" />
+    <option name="LAST_COMMIT_MESSAGE" value="coffee machine project" />
   </component>
 </project>
