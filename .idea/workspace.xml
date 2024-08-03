@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="coffee machine project">
-      <change afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop_concepts_classes.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="oop basis">
+      <change afterPath="$PROJECT_DIR$/class_methods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +56,7 @@
     "Python.caesar_cipher.executor": "Run",
     "Python.calculate_BMI.executor": "Run",
     "Python.calculator.executor": "Debug",
+    "Python.class_methods.executor": "Debug",
     "Python.coffee_machine_project.executor": "Debug",
     "Python.data_type.executor": "Run",
     "Python.days_in_month.executor": "Debug",
@@ -561,7 +561,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722595970638</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="oop basis">
+      <option name="closed" value="true" />
+      <created>1722600716327</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1722600716327</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -576,7 +584,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tuple" />
     <MESSAGE value="Set in python" />
     <MESSAGE value="for loop" />
     <MESSAGE value="average exercise" />
@@ -601,6 +608,7 @@
     <MESSAGE value="guess game and debugging tips" />
     <MESSAGE value="higher lower game" />
     <MESSAGE value="coffee machine project" />
-    <option name="LAST_COMMIT_MESSAGE" value="coffee machine project" />
+    <MESSAGE value="oop basis" />
+    <option name="LAST_COMMIT_MESSAGE" value="oop basis" />
   </component>
 </project>
