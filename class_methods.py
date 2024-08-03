@@ -5,8 +5,16 @@ class Instructor:
         self.address = instructor_address
         # self.followers = 0
     def display(self, subject_name):
-        print(f"Hi, I am {self.name} and I teach {subject_name}")
+        print(f"Hello, I am {self.name} and I handle {subject_name}")
+    def update_followers(self, follower_name):
+        self.followers += 1
 
 instructor_1 = Instructor("Joshua", "Sunyani")
-print(f"Name: {instructor_1.name}\nAddress: {instructor_1.address}\nFollowers: {instructor_1.followers}")
+print(f"{instructor_1.name} from {instructor_1.address} and has {instructor_1.followers} followers")
 instructor_1.display("Python")
+instructor_1.update_followers("Ali")
+print(instructor_1.followers)
+
+instructor_2 = Instructor("Emma", "Bekwai")
+instructor_2.update_followers("Joshua")
+print(instructor_2.followers)

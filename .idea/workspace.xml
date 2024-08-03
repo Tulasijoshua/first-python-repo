@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="oop basis">
-      <change afterPath="$PROJECT_DIR$/class_methods.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="class methods">
+      <change afterPath="$PROJECT_DIR$/circle_area_circumference.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_methods.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
     "Python.caesar_cipher.executor": "Run",
     "Python.calculate_BMI.executor": "Run",
     "Python.calculator.executor": "Debug",
+    "Python.circle_area_circumference.executor": "Debug",
     "Python.class_methods.executor": "Debug",
     "Python.coffee_machine_project.executor": "Debug",
     "Python.data_type.executor": "Run",
@@ -569,7 +571,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722600716327</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="class methods">
+      <option name="closed" value="true" />
+      <created>1722653105926</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1722653105926</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -584,7 +594,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Set in python" />
     <MESSAGE value="for loop" />
     <MESSAGE value="average exercise" />
     <MESSAGE value="range" />
@@ -609,6 +618,7 @@
     <MESSAGE value="higher lower game" />
     <MESSAGE value="coffee machine project" />
     <MESSAGE value="oop basis" />
-    <option name="LAST_COMMIT_MESSAGE" value="oop basis" />
+    <MESSAGE value="class methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="class methods" />
   </component>
 </project>
