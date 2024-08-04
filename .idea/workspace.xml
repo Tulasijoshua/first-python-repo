@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="class basic purposes">
-      <change afterPath="$PROJECT_DIR$/inheritance_intro.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="inheritance in python">
+      <change afterPath="$PROJECT_DIR$/multiple_inheritance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +90,7 @@
     "Python.loop_control_statements.executor": "Run",
     "Python.max_number_exercise.executor": "Run",
     "Python.membership_operator.executor": "Run",
+    "Python.multiple_inheritance.executor": "Debug",
     "Python.multiple_return_values.executor": "Debug",
     "Python.nested_dictionaries.executor": "Run",
     "Python.nested_if.executor": "Run",
@@ -587,7 +588,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722659126222</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="inheritance in python">
+      <option name="closed" value="true" />
+      <created>1722683864348</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1722683864348</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -602,7 +611,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="average exercise" />
     <MESSAGE value="range" />
     <MESSAGE value="fizzbuzz exercise" />
     <MESSAGE value="password generator" />
@@ -627,6 +635,7 @@
     <MESSAGE value="oop basis" />
     <MESSAGE value="class methods" />
     <MESSAGE value="class basic purposes" />
-    <option name="LAST_COMMIT_MESSAGE" value="class basic purposes" />
+    <MESSAGE value="inheritance in python" />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritance in python" />
   </component>
 </project>
