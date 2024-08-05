@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="multiple inheritance">
-      <change afterPath="$PROJECT_DIR$/multi_level_inheritance.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="multi level inheritance">
+      <change afterPath="$PROJECT_DIR$/hierarchical_inheritance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +77,7 @@
     "Python.guess_the_number.executor": "Debug",
     "Python.head_or_tail.executor": "Run",
     "Python.hgiherlowe_game.executor": "Run",
+    "Python.hierarchical_inheritance.executor": "Debug",
     "Python.identity_operator.executor": "Run",
     "Python.if_else.executor": "Run",
     "Python.if_else_exercise.executor": "Run",
@@ -605,7 +606,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722810297994</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="multi level inheritance">
+      <option name="closed" value="true" />
+      <created>1722834815193</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1722834815193</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -620,7 +629,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fizzbuzz exercise" />
     <MESSAGE value="password generator" />
     <MESSAGE value="while loop" />
     <MESSAGE value="loop controls" />
@@ -645,6 +653,7 @@
     <MESSAGE value="class basic purposes" />
     <MESSAGE value="inheritance in python" />
     <MESSAGE value="multiple inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="multiple inheritance" />
+    <MESSAGE value="multi level inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="multi level inheritance" />
   </component>
 </project>
