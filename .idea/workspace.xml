@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="university exercise">
-      <change afterPath="$PROJECT_DIR$/GPA_calculation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GPA_calculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/GPA_calculation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
     "Python.Ap_Akarguments.executor": "Run",
     "Python.BMI_int_exercise.executor": "Run",
     "Python.BMI_second_exercise.executor": "Run",
+    "Python.GPA_calculation.executor": "Run",
     "Python.add_exercise.executor": "Run",
     "Python.add_two_digits.executor": "Run",
     "Python.age_left_exercise.executor": "Run",
@@ -227,14 +227,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718257037973</updated>
-    </task>
-    <task id="LOCAL-00005" summary="operators and exercise">
-      <option name="closed" value="true" />
-      <created>1718427053866</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1718427053866</updated>
     </task>
     <task id="LOCAL-00006" summary="logical and bitwise operators">
       <option name="closed" value="true" />
@@ -620,7 +612,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727250216754</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="university exercise">
+      <option name="closed" value="true" />
+      <created>1727254052679</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1727254052679</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
