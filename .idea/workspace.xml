@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="university exercise">
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="calculating students GPA">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GPA_calculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/GPA_calculation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_error.py" beforeDir="false" afterPath="$PROJECT_DIR$/index_error.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/input_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leap_year_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/leap_year_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,14 +230,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718257037973</updated>
-    </task>
-    <task id="LOCAL-00006" summary="logical and bitwise operators">
-      <option name="closed" value="true" />
-      <created>1718427173174</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1718427173174</updated>
     </task>
     <task id="LOCAL-00007" summary="membership operator">
       <option name="closed" value="true" />
@@ -620,7 +615,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727254052679</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="calculating students GPA">
+      <option name="closed" value="true" />
+      <created>1727255299157</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1727255299157</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +638,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="average height corrected" />
     <MESSAGE value="functions in python" />
     <MESSAGE value="caesar cipher text" />
     <MESSAGE value="caesar cipher final" />
@@ -660,6 +662,7 @@
     <MESSAGE value="hierachical inheritance" />
     <MESSAGE value="update" />
     <MESSAGE value="university exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="university exercise" />
+    <MESSAGE value="calculating students GPA" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculating students GPA" />
   </component>
 </project>
