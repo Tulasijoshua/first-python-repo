@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/university_class_exercise.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="university exercise">
+      <change afterPath="$PROJECT_DIR$/diamond_problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hybrid_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/hybrid_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +66,7 @@
     "Python.days_in_month.executor": "Debug",
     "Python.debugging_tips.executor": "Debug",
     "Python.demo.executor": "Debug",
+    "Python.diamond_problem.executor": "Run",
     "Python.dict_exercise.executor": "Run",
     "Python.dictionaries.executor": "Debug",
     "Python.fStrings_python.executor": "Run",
@@ -96,6 +99,7 @@
     "Python.multi_level_inheritance.executor": "Debug",
     "Python.multiple_inheritance.executor": "Run",
     "Python.multiple_return_values.executor": "Debug",
+    "Python.name_list.executor": "Run",
     "Python.nested_dictionaries.executor": "Run",
     "Python.nested_if.executor": "Run",
     "Python.nested_list.executor": "Run",
@@ -107,9 +111,10 @@
     "Python.operators.executor": "Run",
     "Python.password_generator.executor": "Run",
     "Python.pizza_order_exercise.executor": "Run",
+    "Python.practice.executor": "Run",
     "Python.prime_function.executor": "Run",
     "Python.print_return.executor": "Debug",
-    "Python.python_list.executor": "Run",
+    "Python.python_list.executor": "Debug",
     "Python.random_module.executor": "Run",
     "Python.randomly_select_name.executor": "Run",
     "Python.range_function.executor": "Run",
@@ -224,14 +229,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718257037973</updated>
-    </task>
-    <task id="LOCAL-00003" summary="operators and exercise">
-      <option name="closed" value="true" />
-      <created>1718345595171</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1718345595171</updated>
     </task>
     <task id="LOCAL-00004" summary="operators and exercise">
       <option name="closed" value="true" />
@@ -617,7 +614,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723333972352</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="university exercise">
+      <option name="closed" value="true" />
+      <created>1723370285451</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1723370285451</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -632,7 +637,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="loop controls" />
     <MESSAGE value="average height corrected" />
     <MESSAGE value="functions in python" />
     <MESSAGE value="caesar cipher text" />
@@ -657,6 +661,7 @@
     <MESSAGE value="multi level inheritance" />
     <MESSAGE value="hierachical inheritance" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="university exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="university exercise" />
   </component>
 </project>

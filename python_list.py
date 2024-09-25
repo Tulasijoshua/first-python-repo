@@ -5,7 +5,7 @@ print(numbers)
 # print(names)
 # print(mix_list)
 
-# print(numbers[3])
+print(numbers[3])
 # print(len(numbers))
 # print(numbers[-1])
 # print(numbers[1:6])
