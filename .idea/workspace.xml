@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="leap year check">
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="loop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loop_control_pass.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop_control_pass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GPA_calculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/GPA_calculation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leap_year_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/leap_year_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/max_number_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/max_number_exercise.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -228,14 +230,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718257037973</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Rounding in python">
-      <option name="closed" value="true" />
-      <created>1718468174930</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1718468174930</updated>
     </task>
     <task id="LOCAL-00009" summary="Conditional statements in python">
       <option name="closed" value="true" />
@@ -621,7 +615,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727259141988</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="loop">
+      <option name="closed" value="true" />
+      <created>1727260331228</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1727260331228</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -636,7 +638,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="caesar cipher text" />
     <MESSAGE value="caesar cipher final" />
     <MESSAGE value="dictionaries" />
     <MESSAGE value="dictionary functions" />
@@ -661,6 +662,7 @@
     <MESSAGE value="university exercise" />
     <MESSAGE value="calculating students GPA" />
     <MESSAGE value="leap year check" />
-    <option name="LAST_COMMIT_MESSAGE" value="leap year check" />
+    <MESSAGE value="loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="loop" />
   </component>
 </project>
