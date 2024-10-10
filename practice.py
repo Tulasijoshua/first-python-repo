@@ -1,31 +1,39 @@
-exam_scores = input("Enter your exams scores for 3 courses separated by comma: ")
-exam_scores = exam_scores.split(',')
+def compute_gpas(students_info):
+    gpas = []
 
-def grade_point(scores):
-    if scores >= 80:
-        return 4.0
-    elif scores >= 75:
-        return 3.5
-    elif scores >= 70:
-        return 3.0
-    elif scores >= 65:
-        return 2.5
-    elif scores >= 60:
-        return 2.0
-    elif scores >= 55:
-        return 1.5
-    elif scores >= 50:
-        return 1.0
-    else:
-        return 0.5
+    # Grade points mapping (example: A = 4.0, B = 3.0, etc.)
+    grade_points = {
+        'A': 4.0,
+        'B': 3.0,
+        'C': 2.0,
+        'D': 1.0,
+        'F': 0.0
+    }
 
-total_grade_point = 0
-total_credit_hours = 3 * len(exam_scores)
-if len(exam_scores) == 3:
-    for score in exam_scores:
-        grade_point_value = grade_point(int(score))
-        total_grade_point += grade_point_value
-    GPA = (total_grade_point * 3) / total_credit_hours
-    print(GPA)
-else:
-    print("Enter scores for 3 courses")
+    for student in students_info:
+        name = student['name']
+        grades = student['grades']
+        total_points = 0
+        num_courses = len(grades)
+
+        for grade in grades:
+            total_points += grade_points.get(grade, 0)
+
+        gpa = total_points / num_courses if num_courses > 0 else 0
+        gpas.append({'name': name, 'gpa': gpa})
+
+    return gpas
+
+
+# Example usage
+students_info = []
+
+for i in range(3):
+    name = input(f"Enter the name of student {i + 1}: ")
+    grades = input(f"Enter the grades for {name} (separated by spaces, e.g., 'A B C'): ").split()
+    students_info.append({'name': name, 'grades': grades})
+
+gpas = compute_gpas(students_info)
+
+for student in gpas:
+    print(f"{student['name']}: GPA = {student['gpa']:.2f}")
