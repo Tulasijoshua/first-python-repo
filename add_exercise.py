@@ -1,6 +1,4 @@
-first_number = input("Enter first number: ")
-second_number = input("Enter second number: ")
+numbers = input("Enter number with two digits: ")
 
-sum = float(first_number) + float(second_number)
-
-print("The sum of the two numbers is ", sum)
+sum_digits = int(numbers[0]) + int(numbers[1])
+print("The sum of the digits is: ", sum_digits)

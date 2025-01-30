@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="update" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="modules">
+      <change afterPath="$PROJECT_DIR$/add_all_digits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,105 +45,107 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Ap_Akarguments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BMI_int_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.BMI_second_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GPA_calculation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.add_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.add_two_digits.executor&quot;: &quot;Run&quot;,
-    &quot;Python.age_left_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.average_height_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bitwise_operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.caesar_cipher.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculate_BMI.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.circle_area_circumference.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.class_methods.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.coffee_machine_project.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.data_type.executor&quot;: &quot;Run&quot;,
-    &quot;Python.days_in_month.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.debugging_tips.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.demo.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.diamond_problem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dict_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dictionaries.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.fStrings_python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_handling.executor&quot;: &quot;Run&quot;,
-    &quot;Python.first.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fizzbuzz_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_else_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fun_with_returnvalue.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.function_intro.executor&quot;: &quot;Run&quot;,
-    &quot;Python.function_two_arguments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.get_student_and_gpa.executor&quot;: &quot;Run&quot;,
-    &quot;Python.global_keyword.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.guess_the_number.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.head_or_tail.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hgiherlowe_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hierarchical_inheritance.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.hybrid_inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.identity_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if_else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if_else_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.index_error.executor&quot;: &quot;Run&quot;,
-    &quot;Python.inheritance_intro.executor&quot;: &quot;Run&quot;,
-    &quot;Python.input_function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leap_year_check.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_comprehension.executor&quot;: &quot;Run&quot;,
-    &quot;Python.logical_operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loop_control_continue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loop_control_pass.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loop_control_statements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.max_number_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.membership_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multi_level_inheritance.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.multiple_inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.multiple_return_values.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.name_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nested_dictionaries.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nested_if.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nested_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nested_list_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.num_of_paints.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oop_concepts_classes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operations_on_set.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operations_on_set2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pizza_order_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prime_function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_return.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.python_list.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.random_module.executor&quot;: &quot;Run&quot;,
-    &quot;Python.randomly_select_name.executor&quot;: &quot;Run&quot;,
-    &quot;Python.range_function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rounding_in_python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scope_variable.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.set_advance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.set_python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.silent_auction_program.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.string_manipulation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sum_even.executor&quot;: &quot;Run&quot;,
-    &quot;Python.swap_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.true_love_check.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuple_python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.type_error.executor&quot;: &quot;Run&quot;,
-    &quot;Python.types_of_arguments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.university_class_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while_loop_exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.while_loop_python.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Tulasi/courses/python/first-python-repo&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Ap_Akarguments.executor": "Run",
+    "Python.BMI_int_exercise.executor": "Run",
+    "Python.BMI_second_exercise.executor": "Run",
+    "Python.GPA_calculation.executor": "Run",
+    "Python.add_all_digits.executor": "Debug",
+    "Python.add_exercise.executor": "Debug",
+    "Python.add_two_digits.executor": "Run",
+    "Python.age_left_exercise.executor": "Run",
+    "Python.average_height_exercise.executor": "Run",
+    "Python.bitwise_operators.executor": "Run",
+    "Python.caesar_cipher.executor": "Run",
+    "Python.calculate_BMI.executor": "Run",
+    "Python.calculator.executor": "Run",
+    "Python.circle_area_circumference.executor": "Debug",
+    "Python.class_methods.executor": "Debug",
+    "Python.coffee_machine_project.executor": "Debug",
+    "Python.data_type.executor": "Run",
+    "Python.days_in_month.executor": "Debug",
+    "Python.debugging_tips.executor": "Debug",
+    "Python.demo.executor": "Debug",
+    "Python.diamond_problem.executor": "Run",
+    "Python.dict_exercise.executor": "Run",
+    "Python.dictionaries.executor": "Debug",
+    "Python.fStrings_python.executor": "Run",
+    "Python.file_handling.executor": "Run",
+    "Python.first.executor": "Run",
+    "Python.fizzbuzz_exercise.executor": "Run",
+    "Python.for_else_loop.executor": "Run",
+    "Python.for_loop.executor": "Run",
+    "Python.fun_with_returnvalue.executor": "Debug",
+    "Python.function_intro.executor": "Run",
+    "Python.function_two_arguments.executor": "Run",
+    "Python.get_student_and_gpa.executor": "Run",
+    "Python.global_keyword.executor": "Debug",
+    "Python.guess_the_number.executor": "Debug",
+    "Python.head_or_tail.executor": "Run",
+    "Python.hgiherlowe_game.executor": "Run",
+    "Python.hierarchical_inheritance.executor": "Debug",
+    "Python.hybrid_inheritance.executor": "Run",
+    "Python.identity_operator.executor": "Run",
+    "Python.if_else.executor": "Run",
+    "Python.if_else_exercise.executor": "Run",
+    "Python.index_error.executor": "Run",
+    "Python.inheritance_intro.executor": "Run",
+    "Python.input_function.executor": "Debug",
+    "Python.leap_year_check.executor": "Run",
+    "Python.list_comprehension.executor": "Run",
+    "Python.logical_operators.executor": "Run",
+    "Python.loop_control_continue.executor": "Run",
+    "Python.loop_control_pass.executor": "Run",
+    "Python.loop_control_statements.executor": "Run",
+    "Python.max_number_exercise.executor": "Run",
+    "Python.membership_operator.executor": "Run",
+    "Python.module_lecture.executor": "Debug",
+    "Python.multi_level_inheritance.executor": "Debug",
+    "Python.multiple_inheritance.executor": "Run",
+    "Python.multiple_return_values.executor": "Debug",
+    "Python.name_list.executor": "Run",
+    "Python.nested_dictionaries.executor": "Run",
+    "Python.nested_if.executor": "Run",
+    "Python.nested_list.executor": "Run",
+    "Python.nested_list_exercise.executor": "Run",
+    "Python.num_of_paints.executor": "Run",
+    "Python.oop_concepts_classes.executor": "Run",
+    "Python.operations_on_set.executor": "Run",
+    "Python.operations_on_set2.executor": "Run",
+    "Python.operators.executor": "Run",
+    "Python.password_generator.executor": "Run",
+    "Python.pizza_order_exercise.executor": "Run",
+    "Python.practice.executor": "Debug",
+    "Python.prime_function.executor": "Run",
+    "Python.print_return.executor": "Debug",
+    "Python.python_list.executor": "Debug",
+    "Python.random_module.executor": "Run",
+    "Python.randomly_select_name.executor": "Run",
+    "Python.range_function.executor": "Run",
+    "Python.rock_paper_scissors.executor": "Run",
+    "Python.rounding_in_python.executor": "Run",
+    "Python.scope_variable.executor": "Debug",
+    "Python.set_advance.executor": "Run",
+    "Python.set_python.executor": "Run",
+    "Python.silent_auction_program.executor": "Debug",
+    "Python.string_manipulation.executor": "Run",
+    "Python.sum_even.executor": "Run",
+    "Python.swap_exercise.executor": "Run",
+    "Python.true_love_check.executor": "Run",
+    "Python.tuple_python.executor": "Run",
+    "Python.type_error.executor": "Run",
+    "Python.types_of_arguments.executor": "Run",
+    "Python.university_class_exercise.executor": "Run",
+    "Python.variables.executor": "Run",
+    "Python.while_loop_exercise.executor": "Run",
+    "Python.while_loop_python.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Tulasi/courses/python/first-python-repo",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="firstProject" />
@@ -227,14 +234,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718257037973</updated>
-    </task>
-    <task id="LOCAL-00012" summary="nested if bill exercise">
-      <option name="closed" value="true" />
-      <created>1718861814171</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1718861814171</updated>
     </task>
     <task id="LOCAL-00013" summary="pizza order and love calculator exercise">
       <option name="closed" value="true" />
@@ -620,7 +619,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729228625340</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="modules">
+      <option name="closed" value="true" />
+      <created>1729310921595</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1729310921597</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +642,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="dictionaries" />
     <MESSAGE value="dictionary functions" />
     <MESSAGE value="dictionary exercise" />
     <MESSAGE value="nested dictionaries" />
@@ -660,6 +666,7 @@
     <MESSAGE value="loop" />
     <MESSAGE value="GPA calculation modified" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="modules" />
   </component>
 </project>
