@@ -1,9 +1,9 @@
-height = float(input("Enter your height in m: "))
-weight = int(input("Enter weight in kg: "))
+height = input("Enter your height in m: ")
+weight = input("Enter weight in kg: ")
 
-BMI = round(weight / height ** 2)
+BMI = int(weight) / (float(height) ** 2)
 
-print(f"Your BMI is {BMI}")
+print(f"Your BMI is {round(BMI)}")
 
 if BMI < 16.0:
     print("You are underweight")

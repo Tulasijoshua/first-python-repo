@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="modules">
-      <change afterPath="$PROJECT_DIR$/add_all_digits.py" afterDir="false" />
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="add all digits">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/add_exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BMI_second_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/BMI_second_exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_else_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/for_else_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,18 +49,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Ap_Akarguments.executor": "Run",
-    "Python.BMI_int_exercise.executor": "Run",
-    "Python.BMI_second_exercise.executor": "Run",
+    "Python.BMI_int_exercise.executor": "Debug",
+    "Python.BMI_second_exercise.executor": "Debug",
     "Python.GPA_calculation.executor": "Run",
     "Python.add_all_digits.executor": "Debug",
     "Python.add_exercise.executor": "Debug",
     "Python.add_two_digits.executor": "Run",
     "Python.age_left_exercise.executor": "Run",
-    "Python.average_height_exercise.executor": "Run",
-    "Python.bitwise_operators.executor": "Run",
+    "Python.average_height_exercise.executor": "Debug",
+    "Python.bitwise_operators.executor": "Debug",
     "Python.caesar_cipher.executor": "Run",
     "Python.calculate_BMI.executor": "Run",
-    "Python.calculator.executor": "Run",
+    "Python.calculator.executor": "Debug",
     "Python.circle_area_circumference.executor": "Debug",
     "Python.class_methods.executor": "Debug",
     "Python.coffee_machine_project.executor": "Debug",
@@ -68,13 +69,13 @@
     "Python.debugging_tips.executor": "Debug",
     "Python.demo.executor": "Debug",
     "Python.diamond_problem.executor": "Run",
-    "Python.dict_exercise.executor": "Run",
+    "Python.dict_exercise.executor": "Debug",
     "Python.dictionaries.executor": "Debug",
     "Python.fStrings_python.executor": "Run",
     "Python.file_handling.executor": "Run",
     "Python.first.executor": "Run",
     "Python.fizzbuzz_exercise.executor": "Run",
-    "Python.for_else_loop.executor": "Run",
+    "Python.for_else_loop.executor": "Debug",
     "Python.for_loop.executor": "Run",
     "Python.fun_with_returnvalue.executor": "Debug",
     "Python.function_intro.executor": "Run",
@@ -234,14 +235,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718257037973</updated>
-    </task>
-    <task id="LOCAL-00013" summary="pizza order and love calculator exercise">
-      <option name="closed" value="true" />
-      <created>1718951042052</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1718951042052</updated>
     </task>
     <task id="LOCAL-00014" summary="list and random module in python">
       <option name="closed" value="true" />
@@ -627,7 +620,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729310921597</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="add all digits">
+      <option name="closed" value="true" />
+      <created>1738221179904</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1738221179917</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -642,7 +643,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="dictionary functions" />
     <MESSAGE value="dictionary exercise" />
     <MESSAGE value="nested dictionaries" />
     <MESSAGE value="Self silent auction program" />
@@ -667,6 +667,7 @@
     <MESSAGE value="GPA calculation modified" />
     <MESSAGE value="update" />
     <MESSAGE value="modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="modules" />
+    <MESSAGE value="add all digits" />
+    <option name="LAST_COMMIT_MESSAGE" value="add all digits" />
   </component>
 </project>

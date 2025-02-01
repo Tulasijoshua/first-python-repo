@@ -5,7 +5,7 @@ print(numbers)
 # print(names)
 # print(mix_list)
 
-print(numbers[3])
+# print(numbers[3])
 # print(len(numbers))
 # print(numbers[-1])
 # print(numbers[1:6])
@@ -15,8 +15,8 @@ print(numbers[3])
 
 # Sorting
 # numbers.sort()
-# numbers.reverse()
-# print(numbers)
+numbers.reverse()
+print(numbers)
 
 # Add to list
 # numbers.append(45)
