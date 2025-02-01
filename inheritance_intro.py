@@ -16,6 +16,7 @@ class Male(Human):
     def flirt(self):
         print("I can flirt")
     def work(self):
+        Human.work(self)
         print("I can code")
     def eat(self):
         super().eat()
@@ -25,6 +26,6 @@ class Male(Human):
 
 male_1 = Male("Tulasi", 1)
 print(male_1.name)
-print(male_1.num_eyes)
+male_1.work()
 print(f"Male has {male_1.num_heart}")
 male_1.display()

@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="add all digits">
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="oop revisit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BMI_second_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/BMI_second_exercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for_else_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/for_else_loop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +108,7 @@
     "Python.nested_list.executor": "Run",
     "Python.nested_list_exercise.executor": "Run",
     "Python.num_of_paints.executor": "Run",
-    "Python.oop_concepts_classes.executor": "Run",
+    "Python.oop_concepts_classes.executor": "Debug",
     "Python.operations_on_set.executor": "Run",
     "Python.operations_on_set2.executor": "Run",
     "Python.operators.executor": "Run",
@@ -235,22 +232,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718257037973</updated>
-    </task>
-    <task id="LOCAL-00014" summary="list and random module in python">
-      <option name="closed" value="true" />
-      <created>1718955398450</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1718955398450</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Who will pay the bill exercise">
-      <option name="closed" value="true" />
-      <created>1718956213416</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1718956213416</updated>
     </task>
     <task id="LOCAL-00016" summary="list">
       <option name="closed" value="true" />
@@ -628,7 +609,23 @@
       <option name="project" value="LOCAL" />
       <updated>1738221179917</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="add all digits">
+      <option name="closed" value="true" />
+      <created>1738382907534</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1738382907534</updated>
+    </task>
+    <task id="LOCAL-00064" summary="oop revisit">
+      <option name="closed" value="true" />
+      <created>1738382936624</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1738382936624</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -643,7 +640,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="dictionary exercise" />
     <MESSAGE value="nested dictionaries" />
     <MESSAGE value="Self silent auction program" />
     <MESSAGE value="silent auction program complete" />
@@ -668,6 +664,7 @@
     <MESSAGE value="update" />
     <MESSAGE value="modules" />
     <MESSAGE value="add all digits" />
-    <option name="LAST_COMMIT_MESSAGE" value="add all digits" />
+    <MESSAGE value="oop revisit" />
+    <option name="LAST_COMMIT_MESSAGE" value="oop revisit" />
   </component>
 </project>
