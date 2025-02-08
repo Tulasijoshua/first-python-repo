@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="oop revisit">
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="hierachical inheritance">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
     </list>
@@ -88,7 +88,7 @@
     "Python.if_else.executor": "Run",
     "Python.if_else_exercise.executor": "Run",
     "Python.index_error.executor": "Run",
-    "Python.inheritance_intro.executor": "Run",
+    "Python.inheritance_intro.executor": "Debug",
     "Python.input_function.executor": "Debug",
     "Python.leap_year_check.executor": "Run",
     "Python.list_comprehension.executor": "Run",
@@ -140,11 +140,11 @@
     "Python.while_loop_python.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Tulasi/courses/python/first-python-repo",
+    "last_opened_file_path": "C:/Tulasi/courses/python/modules",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.calculator">
     <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="firstProject" />
       <option name="ENV_FILES" value="" />
@@ -232,14 +232,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718257037973</updated>
-    </task>
-    <task id="LOCAL-00016" summary="list">
-      <option name="closed" value="true" />
-      <created>1719034329393</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1719034329393</updated>
     </task>
     <task id="LOCAL-00017" summary="rock paper scissors">
       <option name="closed" value="true" />
@@ -625,7 +617,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738382936624</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="hierachical inheritance">
+      <option name="closed" value="true" />
+      <created>1738387167447</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1738387167447</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -655,7 +655,6 @@
     <MESSAGE value="inheritance in python" />
     <MESSAGE value="multiple inheritance" />
     <MESSAGE value="multi level inheritance" />
-    <MESSAGE value="hierachical inheritance" />
     <MESSAGE value="university exercise" />
     <MESSAGE value="calculating students GPA" />
     <MESSAGE value="leap year check" />
@@ -665,6 +664,7 @@
     <MESSAGE value="modules" />
     <MESSAGE value="add all digits" />
     <MESSAGE value="oop revisit" />
-    <option name="LAST_COMMIT_MESSAGE" value="oop revisit" />
+    <MESSAGE value="hierachical inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="hierachical inheritance" />
   </component>
 </project>
