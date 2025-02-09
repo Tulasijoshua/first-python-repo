@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="hierachical inheritance">
+    <list default="true" id="8d885fd5-a186-4453-9500-f0856e155e33" name="Changes" comment="__name__ __main__">
+      <change afterPath="$PROJECT_DIR$/higherOrderFunction.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +65,8 @@
     "Python.days_in_month.executor": "Debug",
     "Python.debugging_tips.executor": "Debug",
     "Python.demo.executor": "Debug",
+    "Python.demo1_namemain.executor": "Debug",
+    "Python.demo_namemain.executor": "Debug",
     "Python.diamond_problem.executor": "Run",
     "Python.dict_exercise.executor": "Debug",
     "Python.dictionaries.executor": "Debug",
@@ -83,6 +85,7 @@
     "Python.head_or_tail.executor": "Run",
     "Python.hgiherlowe_game.executor": "Run",
     "Python.hierarchical_inheritance.executor": "Debug",
+    "Python.higherOrderFunction.executor": "Debug",
     "Python.hybrid_inheritance.executor": "Run",
     "Python.identity_operator.executor": "Run",
     "Python.if_else.executor": "Run",
@@ -140,11 +143,11 @@
     "Python.while_loop_python.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Tulasi/courses/python/modules",
+    "last_opened_file_path": "C:/Tulasi/courses/python/first-python-repo",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.calculator">
+  <component name="RunManager">
     <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="firstProject" />
       <option name="ENV_FILES" value="" />
@@ -232,14 +235,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718257037973</updated>
-    </task>
-    <task id="LOCAL-00017" summary="rock paper scissors">
-      <option name="closed" value="true" />
-      <created>1719036552078</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1719036552078</updated>
     </task>
     <task id="LOCAL-00018" summary="Tuple">
       <option name="closed" value="true" />
@@ -625,7 +620,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738387167447</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="__name__ __main__">
+      <option name="closed" value="true" />
+      <created>1739036276985</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1739036276987</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -640,7 +643,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="nested dictionaries" />
     <MESSAGE value="Self silent auction program" />
     <MESSAGE value="silent auction program complete" />
     <MESSAGE value="return value from a function" />
@@ -665,6 +667,7 @@
     <MESSAGE value="add all digits" />
     <MESSAGE value="oop revisit" />
     <MESSAGE value="hierachical inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="hierachical inheritance" />
+    <MESSAGE value="__name__ __main__" />
+    <option name="LAST_COMMIT_MESSAGE" value="__name__ __main__" />
   </component>
 </project>
